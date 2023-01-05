@@ -1,1 +1,4 @@
-# science23db
+# Setup
+```pip install pymongo ```
+
+:)
